@@ -20,5 +20,5 @@ for ln, line in enumerate(sys.stdin):
             r = line[0]
             print(line[2]),
 print("")
-# for i in range(N):
-#     print(1.0/N)
+for i in range(N):
+    print(1.0/N)

@@ -1,0 +1,54 @@
+Fri  4 Oct 16:59:25 GMT 2019
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Deleted /user/hadoop/input1.txt
+Deleted /user/hadoop/input2.txt
+Deleted /user/hadoop/input3.txt
+Deleted /user/hadoop/mapred1
+Deleted /user/hadoop/mapred2
+Deleted /user/hadoop/mapred3
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+put: `input3.txt': File exists
+mkdir: cannot create directory ‘/home/hadoop/Desktop/BigData/PageRank/Matrix/Output/3’: File exists
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+put: `input3.txt': File exists
+mkdir: cannot create directory ‘/home/hadoop/Desktop/BigData/PageRank/Matrix/Output/3’: File exists
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+put: `input3.txt': File exists
+mkdir: cannot create directory ‘/home/hadoop/Desktop/BigData/PageRank/Matrix/Output/3’: File exists
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+put: `input3.txt': File exists
+mkdir: cannot create directory ‘/home/hadoop/Desktop/BigData/PageRank/Matrix/Output/3’: File exists
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+put: `input3.txt': File exists
+mkdir: cannot create directory ‘/home/hadoop/Desktop/BigData/PageRank/Matrix/Output/3’: File exists
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+put: `input3.txt': File exists
+mkdir: cannot create directory ‘/home/hadoop/Desktop/BigData/PageRank/Matrix/Output/3’: File exists
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+put: `input3.txt': File exists
+mkdir: cannot create directory ‘/home/hadoop/Desktop/BigData/PageRank/Matrix/Output/3’: File exists
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+put: `input3.txt': File exists
+mkdir: cannot create directory ‘/home/hadoop/Desktop/BigData/PageRank/Matrix/Output/3’: File exists
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+put: `input3.txt': File exists
+mkdir: cannot create directory ‘/home/hadoop/Desktop/BigData/PageRank/Matrix/Output/3’: File exists
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+put: `input3.txt': File exists
+mkdir: cannot create directory ‘/home/hadoop/Desktop/BigData/PageRank/Matrix/Output/3’: File exists
+WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
